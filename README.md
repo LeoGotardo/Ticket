@@ -1,4 +1,4 @@
-# Fine Calculation Application - Documentation
+# ✓  Fine Calculation Application - Documentation
 
 ## Introduction
 
